@@ -34,9 +34,9 @@ import {
   version,
   watch,
   watchEffect
-} from "./chunk-CQKOAKKR.js";
+} from "./chunk-OBZ6OWBO.js";
 
-// node_modules/vitepress/lib/vue-demi.mjs
+// node_modules/.pnpm/vitepress@1.5.0_@algolia+cl_c733505a210109ed02ebc83d19570077/node_modules/vitepress/lib/vue-demi.mjs
 var isVue2 = false;
 var isVue3 = true;
 function set(target, key, val) {
@@ -56,7 +56,7 @@ function del(target, key) {
   delete target[key];
 }
 
-// node_modules/vitepress/node_modules/@vueuse/shared/index.mjs
+// node_modules/.pnpm/@vueuse+shared@11.3.0_vue@3.5.42_typescript@6.0.3_/node_modules/@vueuse/shared/index.mjs
 function computedEager(fn, options) {
   var _a;
   const result = shallowRef();
@@ -1560,7 +1560,7 @@ function whenever(source, cb, options) {
   return stop;
 }
 
-// node_modules/vitepress/node_modules/@vueuse/core/index.mjs
+// node_modules/.pnpm/@vueuse+core@11.3.0_vue@3.5.42_typescript@6.0.3_/node_modules/@vueuse/core/index.mjs
 function computedAsync(evaluationCallback, initialState, optionsOrRef) {
   let options;
   if (isRef(optionsOrRef)) {

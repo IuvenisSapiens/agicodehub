@@ -1,0 +1,9 @@
+allowBuilds:
+  esbuild: true
+  pnpm: true
+  sharp: true
+  unrs-resolver: true
+  vue-demi: true
+minimumReleaseAgeExclude:
+  - autoprefixer@10.6.0
+  - viewerjs@1.14.0
